@@ -20,7 +20,7 @@ align-items: center;}
 }
 .rigthside{
     width: 400px;
-    background-color: #b4b3b3;
+    background-image: linear-gradient(to top, #b8b6b6,#797878);
     padding: 50px;
 }
 .rigthside label{
@@ -34,4 +34,11 @@ align-items: center;}
     padding: 8px;
     font-size: 14px;
     outline: 0;
+}
+.error{
+    font-size: 11px;
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 4px;
+    border-radius: 5px;
 }
